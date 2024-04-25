@@ -1,0 +1,90 @@
+[33mcommit 27d0db09f2bd7ea958631dd48407973c8fc70f3a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Thu Apr 25 06:28:21 2024 -0700
+
+    oh yeah, I forgot add a message
+    what what
+
+[33mcommit 9802ead8ae36c6700b81740a421df40f89d00053[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Thu Apr 25 06:18:10 2024 -0700
+
+    add two files to the progrum
+    
+    I'm a youngtster man : )
+
+[33mcommit dbbb168b186e78b07bc3063c1ffd5521ddd5db66[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Thu Apr 25 06:17:23 2024 -0700
+
+    Add Joey Peanuts to Characters List
+    
+    He's a youngster boy.
+
+[33mcommit b1dba74729c81d89e0173ba26c87590e15a31e51[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Thu Apr 25 05:53:22 2024 -0700
+
+    deleted a spece between the top line and the
+    bottom line of text.
+
+[33mcommit d956eb84b4bf4c6d9937c9ab18c70da3727bf96f[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Thu Apr 25 05:43:56 2024 -0700
+
+    add extra white space to the top of the paragraph
+    because that's how we do
+
+[33mcommit 03b4542be48b0a36b080f0316bdae440e154f61b[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Wed Apr 24 06:20:23 2024 -0700
+
+    adding Draft 1 folder
+
+[33mcommit 365b3e05c1668eddc92f4910ecf81ac7862c18d1[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Wed Apr 24 06:19:05 2024 -0700
+
+    added two files: word and characterz
+
+[33mcommit ab0557f8f088590521a8418287509919f4d58e96[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Wed Apr 24 05:40:31 2024 -0700
+
+    add items neededx to grow potatoes
+
+[33mcommit 0946f324f882832698daaf989440fe5d86b3f320[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Wed Apr 24 05:32:20 2024 -0700
+
+    add items needed for garden box
+
+[33mcommit 6582e0742037d75403ea685d2db119edb56a0b5d[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Wed Apr 24 05:31:43 2024 -0700
+
+    add ingredient for tomato souppe
+
+[33mcommit f35a74c28d05cd8280c2d1ee3cc841773a1317bc[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Wed Apr 24 05:28:16 2024 -0700
+
+    add groceriees and yardde lists
+
+[33mcommit a13da109129b9d44c718608af6da12d2a40bd065[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Tue Apr 23 07:32:04 2024 -0700
+
+    added do da doo doo
+
+[33mcommit 1ad0610889ce73deb14f9178a0f80d128c9c0f07[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Tue Apr 23 07:13:20 2024 -0700
+
+    Changed Js to lower case
+
+[33mcommit 5617dafa00d37d2ef1897d8f0481b9c0dad81707[m
+Author: Owen Randolph <orandolph8@gmail.com>
+Date:   Tue Apr 23 07:04:26 2024 -0700
+
+    start work on outline and main characters
