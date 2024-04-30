@@ -1,0 +1,21 @@
+red
+orange
+yellow
+green
+<<<<<<< Updated upstream
+hold ONE    
+
+here we gooooo!
+yeahhh!
+=======
+blue
+indigo
+I <3 the rainbow
+ONE
+two three
+<<<<<<< Updated upstream
+=======
+four five
+>>>>>>> Stashed changes
+asdfasdfasdfasdfa
+>>>>>>> Stashed changes
